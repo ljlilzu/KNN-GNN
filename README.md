@@ -4,7 +4,7 @@ The codes and data for the paper "KNN-GNN: A powerful graph neural network enhan
 If you find the code useful, please cite our paper.
 
 ```
-@article{LI2024124217,
+@article{KNN-GNN,
 title = {KNN-GNN: A powerful graph neural network enhanced by aggregating K-nearest neighbors in common subspace},
 journal = {Expert Systems with Applications},
 volume = {253},
