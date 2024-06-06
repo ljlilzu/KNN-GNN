@@ -1,2 +1,17 @@
 # KNN-GNN
-The code will be available after the paper is accepted. 
+The codes and data for the paper "KNN-GNN: A powerful graph neural network enhanced by aggregating K-nearest neighbors in common subspace".
+
+If you find the code useful, please cite our paper.
+
+```
+@article{LI2024124217,
+title = {KNN-GNN: A powerful graph neural network enhanced by aggregating K-nearest neighbors in common subspace},
+journal = {Expert Systems with Applications},
+volume = {253},
+pages = {124217},
+year = {2024},
+issn = {0957-4174},
+doi = {10.1016/j.eswa.2024.124217},
+author = {Longjie Li and Wenxin Yang and Shenshen Bai and Zhixin Ma},
+}
+```
